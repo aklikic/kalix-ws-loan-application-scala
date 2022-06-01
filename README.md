@@ -1,5 +1,5 @@
 # Kalix Workshop - Loan application - Scala
-
+Not supported by Lightbend in any conceivable way, not open for contributions.
 ## Prerequisite
 Java 11 or later<br>
 SBT 1.3.6 or later<br>
